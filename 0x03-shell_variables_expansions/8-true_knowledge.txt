@@ -1,2 +1,0 @@
-#!/usr/bin/bash
-echo $((128 + ${TRUEKNOWLEDGE:-0}))
